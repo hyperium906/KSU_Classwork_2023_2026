@@ -1,0 +1,12 @@
+---
+:id: 172596713
+:submitters:
+- :name: Josh Dupati
+  :email: jdupati@students.kennesaw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-04-04 18:14:28.040043000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-04-04 11:14:28.040043000 Z
+:status: processed
+:score: 100.0
